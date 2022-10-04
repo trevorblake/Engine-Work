@@ -1,0 +1,5 @@
+s0*Blurg: 'Come to my belly food.'
+s1*Blurg: 'I sure am hungry, ugh.'
+s2*Blurg: 'Oohhhh... my stomach..'
+s3*Blurg: 'OOHHH PRECIOUS FOOOOOD'
+s4*Blurg: 'Oi, Who goes there????'
